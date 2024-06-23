@@ -1,4 +1,3 @@
-
 * {
         margin: 0;
         font-family: Arial;
@@ -506,7 +505,6 @@ span{
         align-items: center;
         justify-content: space-evenly;
     }
-}
 @media screen and (max-width: 1440px){
     .navbar {
         height: 60px;
