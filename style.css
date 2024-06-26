@@ -571,7 +571,7 @@ span{
         display: flex;
         justify-content: space-evenly;
     }
-        .container3{
+    .container3{
         width: 75.5%;
         height: 300px;
         justify-content: space-evenly;
